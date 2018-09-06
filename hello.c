@@ -4,7 +4,9 @@
 
 
 
-void main(int argc, char **argv)
+int main(int argc, char **argv)
 {
     printf("hello, Steve Parker\n");
+    
+    return( 0 );
 }
