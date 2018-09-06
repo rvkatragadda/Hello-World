@@ -6,5 +6,5 @@
 
 void main(int argc, char **argv)
 {
-    printf("hello, Steve\n");
+    printf("hello, Steve Parker\n");
 }
