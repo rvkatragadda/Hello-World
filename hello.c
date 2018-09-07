@@ -8,5 +8,5 @@ int main(int argc, char **argv)
 {
     printf("hello, Steve Parker\n");
     
-    return( 1 );
+    return( 0 );
 }
