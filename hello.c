@@ -6,7 +6,6 @@
 
 int main(int argc, char **argv)
 {
-    printf("hello, Steve Parker\n");
-    
+    printf("Hello, HSSLab Team.\n");
     return( 0 );
 }
